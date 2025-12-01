@@ -12,6 +12,7 @@
             --primary-dark: #6A0DAD;
             --primary-light: #9D4EDD;
             --secondary: #00D4AA;
+            --discord: #7289DA;
             --dark: #0A0A0F;
             --darker: #050508;
             --card-bg: #121218;
@@ -418,6 +419,10 @@
             width: 24px;
         }
 
+        .contact-item.discord i {
+            color: var(--discord);
+        }
+
         /* Footer */
         footer {
             background: var(--darker);
@@ -470,9 +475,16 @@
         }
 
         .social-link:hover {
-            background: var(--primary);
             transform: translateY(-5px);
             box-shadow: var(--glow);
+        }
+
+        .social-link.github:hover {
+            background: var(--primary);
+        }
+
+        .social-link.discord:hover {
+            background: var(--discord);
         }
 
         .copyright {
@@ -547,7 +559,7 @@
                 <ul class="nav-links">
                     <li><a href="#home">Início</a></li>
                     <li><a href="#projects">Projetos</a></li>
-                    <li><a href="#contact">Contato</a></li>
+                    <li><a href="#contact">Comunidade</a></li>
                 </ul>
             </nav>
         </div>
@@ -593,7 +605,7 @@
             </div>
             <div class="stat-card">
                 <div class="stat-number">Comunidade</div>
-                <div class="stat-label">Ativa no GitHub</div>
+                <div class="stat-label">Ativa no Discord</div>
             </div>
         </div>
     </div>
@@ -668,12 +680,16 @@
         <div class="container">
             <div class="contact-container">
                 <div class="contact-card">
-                    <h3>Colaboração & Contribuições</h3>
-                    <p>Todos meus projetos são open source e totalmente gratuitos. Contribua, reporte issues ou sugira melhorias diretamente no GitHub.</p>
+                    <h3>Junte-se à Comunidade</h3>
+                    <p>Todos meus projetos são open source e totalmente gratuitos. Participe da comunidade, compartilhe ideias e colabore no desenvolvimento.</p>
                     <div class="contact-info">
                         <div class="contact-item">
                             <i class="fab fa-github"></i>
                             <span>github.com/kelvenapk</span>
+                        </div>
+                        <div class="contact-item discord">
+                            <i class="fab fa-discord"></i>
+                            <span>discord.gg/vqRrPT8aQx</span>
                         </div>
                         <div class="contact-item">
                             <i class="fas fa-code-branch"></i>
@@ -696,8 +712,11 @@
                 <div class="footer-logo">kelvenapk</div>
                 <p class="footer-tagline">Especialista em otimização avançada de sistemas Windows. Projetos open source focados em performance, privacidade e personalização.</p>
                 <div class="social-links">
-                    <a href="https://github.com/kelvenapk" class="social-link" target="_blank">
+                    <a href="https://github.com/kelvenapk" class="social-link github" target="_blank">
                         <i class="fab fa-github"></i>
+                    </a>
+                    <a href="https://discord.gg/vqRrPT8aQx" class="social-link discord" target="_blank">
+                        <i class="fab fa-discord"></i>
                     </a>
                 </div>
                 <p class="copyright">© 2024 kelvenapk. Todos os projetos são open source e gratuitos.<br>Feito com ❤️ para a comunidade Windows</p>
