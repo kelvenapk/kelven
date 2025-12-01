@@ -46,13 +46,6 @@ Proteção avançada de privacidade:
 - Firewall rules otimizadas
 - Proteção contra tracking
 
-## Métricas de Contribuição
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=kelvenapk&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2)
-
-</div>
 
 ## Contribuições
 
