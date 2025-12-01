@@ -1,4 +1,4 @@
-# 👨‍💻 kelvenapk | Especialista em Otimização Windows
+#   kelvenapk | focado em Otimização Windows
 
 [![Website](https://img.shields.io/badge/portfolio-visite-blueviolet)](https://kelvenapk.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/github-projetos-black)](https://github.com/kelvenapk)
