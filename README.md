@@ -75,7 +75,7 @@ Portfólio profissional que demonstra expertise em otimização de sistemas Wind
 O portfólio recebe atualizações regulares com novos projetos e melhorias técnicas.
 
 ### Próximas Atualizações Planejadas:
-- [ ] Adição de seção de blog técnico
+
 - [ ] Implementação de modo claro/escuro
 - [ ] Integração com APIs externas
 - [ ] Otimizações de performance adicional
@@ -84,7 +84,7 @@ O portfólio recebe atualizações regulares com novos projetos e melhorias téc
 
 ## 📝 Licença
 
-© 2023 KelvenAPK. Todos os direitos reservados.
+© 2025 KelvenAPK. Todos os direitos reservados.
 Este projeto é para fins de demonstração profissional.
 
-*Este README foi atualizado em Dezembro de 2023.*
+*Este README foi atualizado em Dezembro de 2025.*
